@@ -2,5 +2,6 @@
 
 ## List of features website
 
-- fetch API
-- Using ES6 features
+- Fetch API
+- Using ES6 Features
+- Search and Fetch API and Display Data
